@@ -1,1 +1,8 @@
-{}
+{
+  "type": "npm",
+  "env": {
+    "NODE_ENV": "production",
+    "API_KEY": "@sample-apiKey",
+    "DB_URL": "@sample-dbUrl"
+  }
+}
