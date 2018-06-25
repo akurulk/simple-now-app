@@ -1,5 +1,5 @@
 {
-   secrets: {
+   "env": {
      "DB_URL": "@dbUrlSecret",
      "NODE_ENV": "production"
    }
