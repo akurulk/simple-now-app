@@ -1,13 +1,7 @@
 {
   "type": "npm",
   "env": {
-    "NODE_ENV": "production",
-    "API_KEY": "@apiKey"
-  },
-  "build": {
-    "env": {
-      "DB_URL": "@dbUrl"
-    }
+    "NODE_ENV": "production"
   }
 }
 
