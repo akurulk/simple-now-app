@@ -1,5 +1,6 @@
 {
-  "type": "npm"
+  "type": "npm",
+  "name": "this-is-the-name"
 }
 
 
