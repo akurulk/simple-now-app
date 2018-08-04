@@ -6,6 +6,6 @@
     "DB_URL": "@sample-dbUrl1000"
   },
   "github": {
-    "enabled": false
+    "enabled": true
   }
 }
