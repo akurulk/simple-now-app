@@ -1,7 +1,8 @@
 {
   "type": "npm",
   "env": {
-    "NOW_ABC": "1"
+    "NOW_ABC": "1",
+    "NOW": "1"
   }
 }
 
