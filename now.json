@@ -1,14 +1,9 @@
 {
-  "type": "npm",
-  "env": {
-    "NODE_ENV": "production",
-    "dbUrl": "@mongodb-url"
-  },
-  "build": {
-    "env": {
-      "API_KEY": "@our-api-key"
-    }
-  }
+  "type": "static"
 }
+
+
+
+
 
 
