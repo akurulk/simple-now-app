@@ -6,3 +6,4 @@ flow "Main" {
 task "deploy" {
   uses = "now-test"
 }
+
