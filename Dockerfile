@@ -1,6 +1,6 @@
 FROM alpine
 
-RUN mkdir /public && echo "Hello World 9" > /public/index.txt
+RUN mkdir /public && echo "Hello World" > /public/index.txt
 
 
 
