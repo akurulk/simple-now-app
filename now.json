@@ -1,5 +1,5 @@
 {
-  "type": "npm23",
+  "type": "npm",
   "env": {
     "NODE_ENV": "production",
     "dbUrl": "@mongodb-url"
