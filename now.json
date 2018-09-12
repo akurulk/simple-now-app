@@ -5,6 +5,6 @@
     "akurulk-1-simple-now-app.now.sh"
   ],
   "github": {
-    "aliasing": true
+    "autoAlias": true
   }
 }
