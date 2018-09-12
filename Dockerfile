@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN mkdir /public && echo "Hello World 2323" > /public/index.txt
+RUN mkdir /public && echo "Hello World 23" > /public/index.txt
