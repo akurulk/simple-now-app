@@ -1,6 +1,6 @@
 FROM alpine
 
-RUN mkdir /public && echo "Hello World new 30" > /public/index.txt
+RUN mkdir /public && echo "Hello World new 300" > /public/index.txt
 
 
 
