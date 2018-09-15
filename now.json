@@ -5,10 +5,7 @@
     "akurulk-simple-now-app.now.sh",
     "akurulk-1-simple-now-app.now.sh"
   ],
-  "scale": {
-    "sfo": {
-      "min": 1,
-      "max": 1
-    }
+  "features": {
+    "cloud": "v2"
   }
 }
