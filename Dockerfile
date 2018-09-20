@@ -1,6 +1,6 @@
 # v1.0.3
 FROM alpine
 
-RUN mkdir /public && echo "Hello World" > /public/index.txt
+RUN mkdir /public && echo "Hello s" > /public/index.txt
 
 
