@@ -3,5 +3,6 @@
   "type": "static",
   "alias": [
     "akurulk-345-simple-now-app"
-  ]
+  ],
+  "version": 1
 }
