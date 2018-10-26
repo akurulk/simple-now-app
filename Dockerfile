@@ -1,7 +1,7 @@
 # v1.0.3
 FROM alpine
 
-RUN mkdir /public && echo "Hello nice" > /public/index.txt
+RUN mkdir /public && echo "Hello nice 545" > /public/index.txt
 
 
 
