@@ -1,4 +1,5 @@
 # v1.0.3
 FROM alpine
 
-RUN mkdir /public && echo "Hello no waiting 2222" > /public/index.txt
+RUN mkdir /public && echo "Hello no waiting PPPP" > /public/index.txt
+RUN sleep 600
