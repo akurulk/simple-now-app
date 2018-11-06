@@ -1,7 +1,7 @@
 # v1.0.3
 FROM alpine
 
-RUN mkdir /public && echo "Hello nice sdsds d2323 232323" > /public/index.txt
+RUN mkdir /public && echo "Hello nice sdsds d2323 KKR" > /public/index.txt
 
 
 
