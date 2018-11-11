@@ -3,7 +3,7 @@
 set -e
 
 echo '' > './TMP_FILE'
-for (( i = 0; i < 101; i++ )); do
+for (( i = 0; i < 6; i++ )); do
   echo "Git Push: $i"
   echo "a" >> './TMP_FILE'
   git add './TMP_FILE'
