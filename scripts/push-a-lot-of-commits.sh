@@ -2,8 +2,9 @@
 
 set -e
 
-rm './TMP_FILE'
+echo '' > './TMP_FILE'
 for (( i = 0; i < 101; i++ )); do
+  echo "Git Push: $i"
   echo "a" >> './TMP_FILE'
   git add './TMP_FILE'
   git commit -am "Add some change"
