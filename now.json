@@ -1,8 +1,5 @@
 {
-  "type": "npm",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "version": 2
 }
 
 
