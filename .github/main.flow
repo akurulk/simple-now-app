@@ -1,0 +1,9 @@
+flow "Main" {
+  on = "push"
+  resolves = "deploy"
+}
+
+task "deploy" {
+  uses = "now-test"
+}
+
