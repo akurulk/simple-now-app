@@ -1,9 +1,10 @@
-
 {
-  "version": 2
+  "version": 1,
+  "type": "static",
+  "alias": [
+    "akurulk-11111-simple-now-app-dsds.now.sh"
+  ]
 }
-
-
 
 
 
