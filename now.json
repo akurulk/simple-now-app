@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "env": {
-    "AuthKey": "@dsds"
-  }
+  "version": 2
 }
