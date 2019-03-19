@@ -1,6 +1,6 @@
 # v1.0.3
 FROM alpine
 
-RUN mkdir /public && echo "Hello weweweqe sdsds" > /public/index.txt
+RUN mkdir /public && echo "Hello sdsds" > /public/index.txt
 
 
