@@ -1,5 +1,6 @@
 
 {
   "version": 2,
-  "scope": "zeit"
+  "scope": "zeit",
+  "alias": "google.com"
 }
