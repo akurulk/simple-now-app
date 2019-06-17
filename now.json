@@ -2,5 +2,8 @@
 {
   "version": 2,
   "scope": "zeit",
-  "alias": "google.com"
+  "alias": [
+    "google.com",
+    "simple1234.com"
+  ]
 }
