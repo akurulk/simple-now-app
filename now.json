@@ -1,6 +1,11 @@
-
 {
   "version": 2,
-  "scope": "zeit"
+  "alias": [	
+    "google.com",	
+    "arunoda.google.com",	
+    "iogoogle.com",	
+    "simple1234.com",	
+    "ppo.now.sh",	
+    "dsdsdssds"	
+  ]	
 }
-
