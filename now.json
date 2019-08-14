@@ -1,7 +1,4 @@
 {
    "env": {
-     "DB_URL": "@dbUrlSecret",
-     "API_SECRET": "@apiSecret",
-     "NODE_ENV": "production"
    }
 }
